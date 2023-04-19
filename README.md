@@ -4,8 +4,6 @@ This dataset gives more insights into the casuality statistics within the the Gr
 
 🚗[Click to download the the dataset](https://www.gov.uk/government/collections/road-accidents-and-safety-statistics)
 
-🚗 [Click here to view as reported](https://maps.dft.gov.uk/road-casualties/index.html)
-
 
 ## Creating my report table for my visualization
 
@@ -69,3 +67,5 @@ on la.local_authority_highway = a.local_authority_highway
 [![Uktraffic-2](https://user-images.githubusercontent.com/122539866/233213595-d572e589-0fbd-4c58-b395-2e6b1d3d7b7d.jpg)](https://youtu.be/t57RgLE7HAI)
 
 ## The original Casuality Report
+
+[<img width="417" alt="Ukreport" src="https://user-images.githubusercontent.com/122539866/233214557-bcdd7d00-cc34-4a51-874b-9ee096ccf266.PNG">](https://maps.dft.gov.uk/road-casualties/index.html)
