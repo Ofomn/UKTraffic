@@ -69,3 +69,11 @@ on la.local_authority_highway = a.local_authority_highway
 ## The original Casuality Report
 
 [<img width="417" alt="Ukreport" src="https://user-images.githubusercontent.com/122539866/233214557-bcdd7d00-cc34-4a51-874b-9ee096ccf266.PNG">](https://maps.dft.gov.uk/road-casualties/index.html)
+
+
+---
+
+ ## License 
+ Licensed under GPL-3.0 license
+
+© Ofomnbuk 2023 🇨🇦😘🇳🇬
